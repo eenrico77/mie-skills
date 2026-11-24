@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+# config con credenziali reali: non committare
+campaign-launcher.yaml
